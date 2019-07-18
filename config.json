@@ -1,0 +1,23 @@
+{
+  "checking_period": {
+    "sec": 10
+  },
+  "pages": {
+    "1": {
+      "url": "http://google.pl",
+      "content_requirement": ""
+    },
+    "2": {
+      "url": "http://wp.pl",
+      "content_requirement": "a"
+    },
+    "3": {
+      "url": "",
+      "content_requirement": "The requirements"
+    },
+    "4": {
+      "url": "http://onet.pl",
+      "content_requirement": "The requirements"
+    }
+  }
+}
