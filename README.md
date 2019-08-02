@@ -9,7 +9,7 @@
 * [Setup](#setup)
 
 ## General info
-Program that monitors web sites and reports
+Program monitors web sites and reports
 their availability. This tool is intended 
 as a monitoring tool for web site 
 administrators for detecting problems on
